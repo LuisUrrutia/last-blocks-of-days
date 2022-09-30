@@ -31,7 +31,7 @@ It also manages a checkpoint list where it stores the minimal and maximum block 
 python main.py halving
 ```
 
-## Non-Blockhain
+## Non-Blockchain
 
 ### Etherscan
 
