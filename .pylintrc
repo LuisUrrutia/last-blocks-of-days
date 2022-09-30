@@ -1,0 +1,12 @@
+[MASTER]
+disable=
+    C0114, # missing-module-docstring
+    C0116, # missing-function-docstring
+    C0115, # missing-class-docstring
+
+good-names=
+    w3,
+    dt,
+    n
+
+class-rgx=[A-Z][a-zA-Z0-9]+$
